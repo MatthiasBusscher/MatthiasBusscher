@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Matthias 👋
 
-<!--
-**MatthiasBusscher/MatthiasBusscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious, eager to learn, problem-solver who likes using data and automation to make work easier and smarter.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL & Python** for data analysis and automation scripts  
+- **Google Sheets + Apps Script** for dashboards and workflows  
+- **Make.com / Zapier** for no-code integrations  
+- **Git, Docker & CI/CD** as my first DevOps tools  
+- Prompt engineering and **AI‑assisted development**
+
+## Projects
+
+- **Sales Analysis with SQL**  
+  Exploratory analysis of a retail sales dataset in SQLite.  
+  SQL scripts answer questions about total revenue, regions, products, monthly trends, customer types, channels and payment methods.
+
+More projects will appear here as I keep learning.
+
+Most of this profile is practice code and experiments as I improve step by step. If you have suggestions or ideas for what I should build next, I’d be happy to hear them.
