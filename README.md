@@ -12,4 +12,4 @@ manual processes and connect business systems.
 - **Currently learning**: Python · LangChain · RAG · 
   scikit-learn
 
-## 🌐 Rotterdam · matthiasbusscher.nl
+# 🌐 Rotterdam · matthiasbusscher.nl
