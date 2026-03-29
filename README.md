@@ -9,7 +9,6 @@ manual processes and connect business systems.
 - **Automation**: Make.com · n8n · Zapier · Google Apps Script
 - **Integrations**: REST APIs · Webhooks · Pipedrive · 
   Exact Online · WeFact · Voys · Webflow
-- **Currently learning**: Python · LangChain · RAG · 
-  scikit-learn
+- **Languages**: Javascript · Git · SQL · Python · HTML · CSS
 
 🌐 Rotterdam · matthiasbusscher.nl
