@@ -23,4 +23,4 @@ JavaScript · Python · SQL · HTML · CSS · Git
 → [automation-portfolio](https://github.com/MatthiasBusscher/automation-portfolio) — 
 18 production automations: architecture write-ups, decisions, trade-offs
 
-🌐 Rotterdam · matthiasbusscher.nl
+🌐 Rotterdam · www.matthiasbusscher.nl
