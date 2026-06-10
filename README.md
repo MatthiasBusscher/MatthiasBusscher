@@ -2,7 +2,7 @@
 
 Automation Engineer based in Rotterdam.  
 18 months building production integrations for a multi-entity 
-B2B services group — order-to-cash, ERP sync, HR compliance, 
+B2B services group order-to-cash, ERP sync, HR compliance, 
 and financial reporting across 13+ legal entities.
 
 Currently deepening into fullstack development (JavaScript · 
