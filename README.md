@@ -1,14 +1,26 @@
 # Hi, I'm Matthias 👋
 
-Automation & AI Engineer based in Rotterdam.
-I build workflows and integrations that eliminate 
-manual processes and connect business systems.
+Automation Engineer based in Rotterdam.  
+18 months building production integrations for a multi-entity 
+B2B services group — order-to-cash, ERP sync, HR compliance, 
+and financial reporting across 13+ legal entities.
 
-## 🔧 What I work with
+Currently deepening into fullstack development (JavaScript · 
+React · Node.js) and AI engineering to build on that foundation.
 
-- **Automation**: Make.com · n8n · Zapier · Google Apps Script
-- **Integrations**: REST APIs · Webhooks · Pipedrive · 
-  Exact Online · WeFact · Voys · Webflow
-- **Languages**: Javascript · Git · SQL · Python · HTML · CSS
+## 🔧 What I build with
+
+**Automation & integration**  
+Make.com · n8n · Google Apps Script · REST APIs · Webhooks
+
+**Connected systems**  
+Pipedrive · Exact Online · WeFact · Basecone · Webflow · Voys · KvK API · Kadaster BAG
+
+**Languages & tools**  
+JavaScript · Python · SQL · HTML · CSS · Git
+
+## 📂 Featured work
+→ [automation-portfolio](https://github.com/MatthiasBusscher/automation-portfolio) — 
+18 production automations: architecture write-ups, decisions, trade-offs
 
 🌐 Rotterdam · matthiasbusscher.nl
