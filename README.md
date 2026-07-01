@@ -21,9 +21,9 @@ JavaScript · Python · SQL · HTML · CSS · Git · GitHub Actions
 
 ## 📂 Featured work
 
-→ [Automation Portfolio](https://github.com/MatthiasBusscher/automation-portfolio)  
-Anonymized architecture-level case studies covering automation, integrations, reliability, and internal tooling.
-
-> No employer-owned code, confidential information, client data, or identifiable internal documentation is published.
+→ [Automation Portfolio](https://github.com/MatthiasBusscher/automation-portfolio) Anonymized architecture-level case studies covering automation, integrations, reliability, and internal tooling.
 
 🌐 Rotterdam · [www.matthiasbusscher.nl](https://www.matthiasbusscher.nl)
+
+
+> No employer-owned code, confidential information, client data, or identifiable internal documentation is published.
