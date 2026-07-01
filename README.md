@@ -1,26 +1,29 @@
 # Hi, I'm Matthias 👋
 
-Automation Engineer based in Rotterdam.  
-18 months building production integrations for a multi-entity 
-B2B services group order-to-cash, ERP sync, HR compliance, 
-and financial reporting across 13+ legal entities.
+Automation & Integration Engineer based in Rotterdam.
 
-Currently deepening into fullstack development (JavaScript · 
-React · Node.js) and AI engineering to build on that foundation.
+I design and build production automations, API integrations, data workflows, and internal tools that reduce manual work and improve operational reliability.
+
+My experience includes projects across CRM, finance, operations, document processing, and business reporting. Public case studies are fully anonymized and describe only the general architecture, engineering decisions, and lessons learned.
+
+I am currently deepening my skills in full-stack development and AI engineering, with a focus on JavaScript, React, Node.js, Python, and reliable backend systems.
 
 ## 🔧 What I build with
 
 **Automation & integration**  
 Make.com · n8n · Google Apps Script · REST APIs · Webhooks
 
-**Connected systems**  
-Pipedrive · Exact Online · WeFact · Basecone · Webflow · Voys · KvK API · Kadaster BAG
+**Business systems**  
+CRM · ERP · accounting software · Google Workspace · website platforms
 
 **Languages & tools**  
-JavaScript · Python · SQL · HTML · CSS · Git
+JavaScript · Python · SQL · HTML · CSS · Git · GitHub Actions
 
 ## 📂 Featured work
-→ [automation-portfolio](https://github.com/MatthiasBusscher/automation-portfolio) — 
-18 production automations: architecture write-ups, decisions, trade-offs
 
-🌐 Rotterdam · www.matthiasbusscher.nl
+→ [Automation Portfolio](https://github.com/MatthiasBusscher/automation-portfolio)  
+Anonymized architecture-level case studies covering automation, integrations, reliability, and internal tooling.
+
+> No employer-owned code, confidential information, client data, or identifiable internal documentation is published.
+
+🌐 Rotterdam · [www.matthiasbusscher.nl](https://www.matthiasbusscher.nl)
