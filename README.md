@@ -11,25 +11,15 @@ My current focus is full-stack software engineering and AI-powered applications,
 
 ## 🔧 What I build with
 
-**Languages**
+**Languages:** JavaScript · TypeScript · Python · SQL
 
-JavaScript · TypeScript · Python · SQL
+**Frontend:** React · Next.js
 
-**Frontend**
+**Backend:** Node.js · REST APIs
 
-React · Next.js
+**Cloud & DevOps:** Git · GitHub Actions · Docker · Cloudflare
 
-**Backend**
-
-Node.js · REST APIs
-
-**Cloud & DevOps**
-
-Git · GitHub Actions · Docker · Cloudflare
-
-**Automation**
-
-Make.com · Google Apps Script · n8n · Webhooks
+**Automation:** Make.com · Google Apps Script · n8n · Webhooks
 
 ## 🌱 Currently
 
