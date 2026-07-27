@@ -1,29 +1,50 @@
 # Hi, I'm Matthias 👋
+Software & Automation Engineer based in Rotterdam.
+  
+🌐 [Website](https://www.matthiasbusscher.nl) • 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
-Automation & Integration Engineer based in Rotterdam.
+I enjoy solving operational problems with software, building reliable systems that connect applications, automate workflows, and make complex processes simpler through production software, API integrations, and internal tooling.
 
-I design and build production automations, API integrations, data workflows, and internal tools that reduce manual work and improve operational reliability.
+My experience spans CRM, finance, operations, document processing, and business reporting systems.
 
-My experience includes projects across CRM, finance, operations, document processing, and business reporting. Public case studies are fully anonymized and describe only the general architecture, engineering decisions, and lessons learned.
-
-I am currently deepening my skills in full-stack development and AI engineering, with a focus on JavaScript, React, Node.js, Python, and reliable backend systems.
+My current focus is full-stack software engineering and AI-powered applications, with JavaScript, TypeScript, React, Next.js, Node.js, Python, and reliable backend systems.
 
 ## 🔧 What I build with
 
-**Automation & integration**  
-Make.com · n8n · Google Apps Script · REST APIs · Webhooks
+**Languages**
 
-**Business systems**  
-CRM · ERP · accounting software · Google Workspace · website platforms
+JavaScript · TypeScript · Python · SQL
 
-**Languages & tools**  
-JavaScript · TypeScript · Python · SQL · React · Next.js · Git · GitHub Actions · Docker
+**Frontend**
+
+React · Next.js
+
+**Backend**
+
+Node.js · REST APIs
+
+**Cloud & DevOps**
+
+Git · GitHub Actions · Docker · Cloudflare
+
+**Automation**
+
+Make.com · Google Apps Script · n8n · Webhooks
+
+## 🌱 Currently
+
+- Building **Maillume**, an open-source phishing and email risk analysis platform
+- Studying full-stack software engineering (JavaScript, React, Node.js & Python)
+- Exploring AI and LLM application development
+- Open to software engineering and automation opportunities
 
 ## 📂 Featured work
 
 ### [Maillume](https://github.com/MatthiasBusscher/Maillume)
 
-Open-source email risk-analysis application that helps users understand suspicious signals before clicking, sharing information, or making a payment.
+Open-source phishing and email risk analysis platform focused on explainable security, privacy, and self-hosting.
+
+Designed to help users understand suspicious emails before clicking links, sharing information, or making payments.
 
 - Explainable risk reports
 - Paste, screenshot OCR, and `.eml` input
@@ -35,8 +56,8 @@ Open-source email risk-analysis application that helps users understand suspicio
 
 ### [Automation Portfolio](https://github.com/MatthiasBusscher/automation-portfolio)
 
-Anonymized architecture-level case studies covering automation, integrations, reliability, and internal tooling.
+Engineering case studies covering production automations, API integrations, business systems, reliability, and internal tooling.
 
-🌐 Rotterdam · [www.matthiasbusscher.nl](https://www.matthiasbusscher.nl)
+🌐 Rotterdam, The Netherlands · [matthiasbusscher.nl](https://www.matthiasbusscher.nl)
 
-> No employer-owned code, confidential information, client data, or identifiable internal documentation is published.
+> Public repositories contain only original work or fully anonymized engineering case studies. No employer-owned code, confidential information, client data, or proprietary documentation is published.
