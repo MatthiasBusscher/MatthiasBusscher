@@ -1,7 +1,7 @@
 # Hi, I'm Matthias 👋
 Software & Automation Engineer based in Rotterdam.
   
-🌐 [Website](https://www.matthiasbusscher.nl) • 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+🌐 [Website](https://www.matthiasbusscher.nl) • 💼 [LinkedIn](https://www.linkedin.com/in/matthiasbusscher/)
 
 I enjoy solving operational problems with software, building reliable systems that connect applications, automate workflows, and make complex processes simpler through production software, API integrations, and internal tooling.
 
